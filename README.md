@@ -126,4 +126,10 @@ Handled using Clerk.
 
 ---
 
+## 👨‍💻 Author
+
+**Shitij Kalia**
+BE-CSE
+Chitkara University
+
 
