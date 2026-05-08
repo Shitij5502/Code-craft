@@ -126,8 +126,4 @@ Handled using Clerk.
 
 ---
 
-## 👨‍💻 Author
 
-**Nikhil Kaushal**
-BE-CSE
-Chitkara University
