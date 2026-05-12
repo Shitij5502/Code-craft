@@ -3,6 +3,9 @@
 CodeCraft is a modern, in-browser IDE built with Next.js, offering a seamless coding experience with AI capabilities, real-time features, and a powerful backend.
 
 ---
+## Project Presentation
+
+[Click Here to View Presentation](./code-craft-ide final.pptx)
 
 ## 🔥 Key Features
 
