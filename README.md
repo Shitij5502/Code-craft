@@ -131,6 +131,8 @@ Handled using Clerk.
 
 ## 👨‍💻 Author
 
-**Nikhil Kaushal**
+**Shitij Kalia**
 BE-CSE
 Chitkara University
+
+
